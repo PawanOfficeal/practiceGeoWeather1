@@ -4,3 +4,12 @@
     box-sizing: border-box;
 }
 body{background-color: rgb(171, 230, 231);}
+.show-data{
+    margin-left: 10px;
+    padding-left: 10px;
+    background-color: burlywood;
+}
+.mainDiv{
+    font-size: 1rem;
+    color:red;
+}
